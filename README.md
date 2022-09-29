@@ -1,3 +1,5 @@
+# image
+![20220929_183712](https://user-images.githubusercontent.com/92292670/193045522-278eb97e-8826-4847-a83e-a831e0197d2b.jpg)
 # 💫 About Me:
 Programmer | Fullstack Blockchain Developer |  Penetration Tester
 
@@ -9,6 +11,4 @@ Programmer | Fullstack Blockchain Developer |  Penetration Tester
 ![](https://github-readme-streak-stats.herokuapp.com/?user=balask-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=balask-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-![20220929_183712](https://user-images.githubusercontent.com/92292670/193045395-e02469cf-25f3-401c-8a08-8a0706c329b2.jpg)
+ 
