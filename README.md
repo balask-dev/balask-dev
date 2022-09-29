@@ -2,7 +2,7 @@
 ![20220929_183712](https://user-images.githubusercontent.com/92292670/193048110-eafc7120-f1c4-47a6-9dff-7e16954bcb92.jpg)
 
 # 💫 About Me:
-🔭 I’m currently Focussing on Blockchain Applications<br> <br>⚡ Programmer // Security Researcher
+🔭 I’m currently Focussing on Blockchain Applications<br> <br>⚡ Programmer // Musician
 
 
 # 💻 Tech Stack:
