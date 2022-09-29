@@ -1,8 +1,7 @@
 
 #
 ![20220929_183712](https://user-images.githubusercontent.com/92292670/193058661-2fe031d1-2461-4776-9286-f0e9a0f7af78.jpg)
-# 💫 About Me:
-⚡ Programmer
+ 
 
 
 
@@ -12,4 +11,5 @@
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=balask-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=balask-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balask-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=balask-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  # 💫 About Me:
+ ⚡ Programmer -->
