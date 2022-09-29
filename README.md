@@ -1,7 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently Exploring on Blockchain Projects<br><br>⚡ Programmer
+
 #
-![20220929_183712](https://user-images.githubusercontent.com/92292670/193058661-2fe031d1-2461-4776-9286-f0e9a0f7af78.jpg)
+![20220929_183712](https://user-images.githubusercontent.com/92292670/193058661-2fe031d1-2461-4776-9286-f0e9a0f7af78.jpg)# 💫 About Me:
+#🔭 I’m currently Exploring on Blockchain Projects<br><br>⚡ Programmer
+
 
 
 
