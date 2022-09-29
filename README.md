@@ -1,5 +1,4 @@
-# >> Programmer // Fullstack Blockchain Developer 
-# image
+ # image
  ![20220929_183712](https://user-images.githubusercontent.com/92292670/193039896-9d7c45e2-8fed-429a-89ef-43053fb74cee.jpg)
 
 # 💻 Tech Stack:
