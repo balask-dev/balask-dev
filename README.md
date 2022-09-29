@@ -1,7 +1,7 @@
-# image
+#  
 ![20220929_183712](https://user-images.githubusercontent.com/92292670/193045522-278eb97e-8826-4847-a83e-a831e0197d2b.jpg)
-# 💫 About Me:
-Programmer | Fullstack Blockchain Developer |  Penetration Tester
+#  
+Cybersecurity Enthuasist and Passionate Programmer
 
 
 # 💻 Tech Stack:
