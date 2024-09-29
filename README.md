@@ -4,9 +4,9 @@
 -->
 ### Hi! I'm Bala! 👋
 - 🛰️:an Security Researcher specialized in Web and Aerospace.
-- :mortar_boar: Electronics and communications Engineer
+- 🎓: Electronics and communications Engineer.
 - ⚡ Also building full stack Applications in MERN stack.
-- :telescope: based in Earth, Space
+- 🔭: based in Earth, Space.
  
 
 
