@@ -3,7 +3,7 @@
 <!--![20220929_183712](https://user-images.githubusercontent.com/92292670/193058661-2fe031d1-2461-4776-9286-f0e9a0f7af78.jpg) 
 -->
 ### Hi! I'm Bala! 👋
-- 👩‍💻 an Security Researcher specializing in Web 🕸️ and Aerospace 🛰️.
+- 👩‍💻 an Security Researcher specializing in Web and Aerospace 🛰.
 - 🎓 Electronics and communications Engineer.
 - ⚡  Also building full stack Applications in MERN stack.
 - 🔭 based in Earth, Space.
