@@ -1,6 +1,12 @@
 
 #
-![20220929_183712](https://user-images.githubusercontent.com/92292670/193058661-2fe031d1-2461-4776-9286-f0e9a0f7af78.jpg)
+<!--![20220929_183712](https://user-images.githubusercontent.com/92292670/193058661-2fe031d1-2461-4776-9286-f0e9a0f7af78.jpg) 
+-->
+### Hi! I'm Bala! 👋
+
+- 👩‍💻 an Security Researcher specialized in Web and Aerospace.
+- :telescope: based in Earth, Space
+- ⚡ Also haev experience in Application development in MERN stack.
  
 
 
