@@ -5,7 +5,7 @@
 ### Hi! I'm Bala! 👋
 - 👩‍💻 an Security Researcher specializing in Web and Aerospace 🛰.
 - 🎓 Electronics and communication Engineer.
-- ⚡  Also building full stack Applications in MERN stack.
+- ⚡  Also building Full stack Applications in MERN stack.
 - 🔭 based in Earth, Space.
  
 
